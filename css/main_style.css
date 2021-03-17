@@ -4,9 +4,13 @@ h1 {
   font-size: 70px;
   text-align:center; }
 
- .container{
+body{
+  text-align: center;
+}
+
+ /*.container{
   	text-align: center;
-  }
+  }*/
 
   button{
   	background-color: skyblue;
@@ -48,29 +52,24 @@ footer{
 }
 
 .fa {
-  padding: 15px;
-  width: 15px;
-  height: 15px;
-  text-decoration: none;
-  margin: 3px;
+  width: 30px;
+  height: 30px;
+  padding: 10px;
 }
+
 .fa-twitter {
   background: #55ACEE;
-  color: white;/*
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+  color: white;
 }
 .fa-facebook {
   background: #3B5998;
-  color: white;/*
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+  color: white;
 }
 .fa-instagram {
   background: #E1306C;
-  color: white;/*
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+  color: white;
 }
 .fa-linkedin {
   background: #007bb5;
-  color: white;/*
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+  color: white;
 }
