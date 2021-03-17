@@ -1,0 +1,76 @@
+h1 {
+  color: #fff;
+  font-weight: 800;
+  font-size: 70px;
+  text-align:center; }
+
+ .container{
+  	text-align: center;
+  }
+
+  button{
+  	background-color: skyblue;
+  	font-size: 20px;
+  	font-family: sans-serif;
+  	font-weight: 700;
+  	width: 150px;
+  	height: 30px;
+  }
+
+h2 {
+  font-size: 20px;
+  color: #333; }
+
+h3 {
+  color: #333; }
+
+img {
+  	margin: 0 auto;
+  	display: block;
+  	margin-top: 10%;
+	}
+
+.site-hero {
+  background-color: #888;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden; 
+  height: 90;
+  min-height: 1000px;
+  position: relative;
+}
+
+footer{
+  color: black;
+  text-align: center; 
+  font-weight: 900;
+}
+
+.fa {
+  padding: 15px;
+  width: 15px;
+  height: 15px;
+  text-decoration: none;
+  margin: 3px;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;/*
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;/*
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+}
+.fa-instagram {
+  background: #E1306C;
+  color: white;/*
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;/*
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+}
