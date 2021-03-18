@@ -26,7 +26,27 @@ h2 {
   color: #333; }
 
 h3 {
-  color: #333; }
+  color: #333;
+  }
+
+.mb{
+  color: transparent; 
+  text-align: center; 
+  animation: effect 5s linear infinite;}
+
+  @keyframes effect {
+  0%   {background-color:#55ACEE;-webkit-background-clip: text;}
+  10%  {background-color:#3B5998;-webkit-background-clip: text;}
+  20%  {background-color:#E1306C;-webkit-background-clip: text;}
+  30%  {background-color:#007bb5;-webkit-background-clip: text;}
+  40%   {background-color:pink;-webkit-background-clip: text;}
+  50%  {background-color:grey;-webkit-background-clip: text;}
+  60%  {background-color:yellow;-webkit-background-clip: text;}
+  70%  {background-color:black;-webkit-background-clip: text;}
+  80%   {background-color:orange;-webkit-background-clip: text;}
+  90%  {background-color:skyblue;-webkit-background-clip: text;}
+  100% {background-color:#55ACEE;-webkit-background-clip: text;}
+} 
 
 img {
   	margin: 0 auto;
